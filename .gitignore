@@ -15,3 +15,19 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Simple Build Tool
+target/
+lib_managed/
+src_managed/
+project/boot/
+.history
+.cache
